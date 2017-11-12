@@ -1,0 +1,14 @@
+### Intellij ###
+.idea
+*.iml
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+### Java-Web ###
+## ignoring target file
+target/
